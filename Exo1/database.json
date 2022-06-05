@@ -1,0 +1,99 @@
+{   "student_2022":  [
+        {
+            "id": 12214400,
+            "pwd": "gumgum",
+            "lname": "Luffy",
+            "fname": "Monkey D",
+            "major": "Physical Education",
+            "following_class": ["Gym", "Football", "Kinesitherapy"],
+            "teaching_class": [],
+            "gender": "Male",
+            "date": "05-05-1998",
+            "rule": "student"
+        },
+        {
+            "id": 12214401,
+            "pwd": "katana",
+            "lname": "Zoro",
+            "fname": "Roronoa",
+            "major": "Computer Science",
+            "following_class": ["Data_Communication", "Software_Programming", "Security"],
+            "teaching_class": [],
+            "gender": "Male",
+            "date": "11-11-1996",
+            "rule": "student"
+        },
+        {
+            "id": 12214402,
+            "pwd": "climate",
+            "lname": "Nami",
+            "fname": "Cat Burglar",
+            "major": "Climate Engineering",
+            "following_class": ["Unknown_climate", "Weather", "Global_Warming"],
+            "teaching_class": [],
+            "gender": "Female",
+            "date": "05-05-1998",
+            "rule": "student"
+        },
+        {
+            "id": 12214403,
+            "pwd": "fearful",
+            "lname": "Usopp",
+            "fname": "Sogeking",
+            "major": "Theater & Movie",
+            "following_class": ["Action_Movie", "History_of_Theater", "Practicing"],
+            "teaching_class": [],
+            "gender": "Male",
+            "date": "01-04-1998",
+            "rule": "student"
+        },
+        {
+            "id": 12214404,
+            "pwd": "panther",
+            "lname": "Lucci",
+            "fname": "Rob",
+            "major": "Law",
+            "following_class": ["Criminal_Law", "Familly_Law", "International_Law"],
+            "teaching_class": [],
+            "gender": "Male",
+            "date": "02-06-1995",
+            "rule": "student"
+        },
+        {
+            "id": 12214405,
+            "pwd": "cooking",
+            "lname": "Sanji",
+            "fname": "Vismoke",
+            "major": "Business Administration",
+            "following_class": ["Management", "Hiring", "Analysis_Market"],
+            "teaching_class": [],
+            "gender": "Male",
+            "date": "02-03-1997",
+            "rule": "student"
+        },
+        {
+            "id": 12214406,
+            "pwd": "worldhistory",
+            "lname": "Robin",
+            "fname": "Nico",
+            "major": "History",
+            "following_class": ["Asia", "Civilisation", "Human"],
+            "teaching_class": [],
+            "gender": "Female",
+            "date": "06-02-1988",
+            "rule": "student"
+        },
+        {
+            "id": 12214407,
+            "pwd": "ilovehistory",
+            "lname": "Hancock",
+            "fname": "Boa",
+            "major": "History",
+            "following_class": [],
+            "teaching_class": ["Asia_History", "Civilisation", "Human"],
+            "gender": "Male",
+            "date": "02-09-19",
+            "rule": "teacher"
+        }
+    ]
+}
