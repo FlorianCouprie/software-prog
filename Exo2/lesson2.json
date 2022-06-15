@@ -1,0 +1,33 @@
+{
+    "Chapter one": [
+        "string",
+        "variable",
+        "input"
+    ],
+    "Chapter two": [
+        "condition",
+        "sets",
+        "lists",
+        "Dictionaries"
+    ],
+    "Chapter three": [
+        "iterate",
+        "booleans",
+        "numbers",
+        "if",
+        "else",
+        "statements"
+    ],
+    "Chapter four": [
+        "try",
+        "except",
+        "json",
+        "truple"
+    ],
+    "Chapter five": [
+        "loops",
+        "ui",
+        "user interface",
+        "file management"
+    ]
+}
